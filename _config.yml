@@ -2,3 +2,9 @@ remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme
 title: The LinkedIn DPH Framework
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "navigation"
