@@ -1,5 +1,3 @@
-{% include navigation.html}
-
 Welcome to the [LinkedIn Developer Productivity and Happiness
 Framework](https://linkedin.github.io/dph-framework/)!
 
